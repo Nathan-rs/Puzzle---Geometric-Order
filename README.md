@@ -10,7 +10,7 @@ Geometric Order é um jogo de platarforma(Windows e andoid) e tem como objetivo 
 <br>
 
 <p align="center">
-  <img alt="CRUD-PDO" src=".github/game-mobile.jpeg" width="100%">
+  <img alt="Geometric Order" src=".github/game-mobile.jpeg" width="100%">
 </p>
 
 ## 💻 Tecnologias
